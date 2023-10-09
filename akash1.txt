@@ -10,4 +10,4 @@ echo "My first PHP script!";
 </html>
 
 hii akash
-deepak
+
